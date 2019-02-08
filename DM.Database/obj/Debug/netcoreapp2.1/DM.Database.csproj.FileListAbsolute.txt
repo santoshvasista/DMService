@@ -1,0 +1,36 @@
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Database\bin\Debug\netcoreapp2.1\DM.Database.deps.json
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Database\bin\Debug\netcoreapp2.1\DM.Database.dll
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Database\bin\Debug\netcoreapp2.1\DM.Database.pdb
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.csproj.CoreCompileInputs.cache
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.AssemblyInfoInputs.cache
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.AssemblyInfo.cs
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.dll
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.pdb
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebApi\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.csprojAssemblyReference.cache
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Database\bin\Debug\netcoreapp2.1\DM.Database.deps.json
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Database\bin\Debug\netcoreapp2.1\DM.Database.dll
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Database\bin\Debug\netcoreapp2.1\DM.Database.pdb
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.csprojAssemblyReference.cache
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.csproj.CoreCompileInputs.cache
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.AssemblyInfoInputs.cache
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.AssemblyInfo.cs
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.dll
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.pdb
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Database\bin\Debug\netcoreapp2.1\DM.Database.deps.json
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Database\bin\Debug\netcoreapp2.1\DM.Database.dll
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Database\bin\Debug\netcoreapp2.1\DM.Database.pdb
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.csprojAssemblyReference.cache
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.csproj.CoreCompileInputs.cache
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.AssemblyInfoInputs.cache
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.AssemblyInfo.cs
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.dll
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.pdb
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Database\bin\Debug\netcoreapp2.1\DM.Database.deps.json
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Database\bin\Debug\netcoreapp2.1\DM.Database.dll
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Database\bin\Debug\netcoreapp2.1\DM.Database.pdb
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.csprojAssemblyReference.cache
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.csproj.CoreCompileInputs.cache
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.AssemblyInfoInputs.cache
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.AssemblyInfo.cs
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.dll
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Database\obj\Debug\netcoreapp2.1\DM.Database.pdb

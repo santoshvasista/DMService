@@ -1,0 +1,9 @@
+C:\Users\Shivaprasad\Documents\GitHub\apiservice\THM.Model\bin\Debug\netstandard2.0\THM.Model.deps.json
+C:\Users\Shivaprasad\Documents\GitHub\apiservice\THM.Model\bin\Debug\netstandard2.0\THM.Model.dll
+C:\Users\Shivaprasad\Documents\GitHub\apiservice\THM.Model\bin\Debug\netstandard2.0\THM.Model.pdb
+C:\Users\Shivaprasad\Documents\GitHub\apiservice\THM.Model\obj\Debug\netstandard2.0\THM.Model.csprojAssemblyReference.cache
+C:\Users\Shivaprasad\Documents\GitHub\apiservice\THM.Model\obj\Debug\netstandard2.0\THM.Model.csproj.CoreCompileInputs.cache
+C:\Users\Shivaprasad\Documents\GitHub\apiservice\THM.Model\obj\Debug\netstandard2.0\THM.Model.AssemblyInfoInputs.cache
+C:\Users\Shivaprasad\Documents\GitHub\apiservice\THM.Model\obj\Debug\netstandard2.0\THM.Model.AssemblyInfo.cs
+C:\Users\Shivaprasad\Documents\GitHub\apiservice\THM.Model\obj\Debug\netstandard2.0\THM.Model.dll
+C:\Users\Shivaprasad\Documents\GitHub\apiservice\THM.Model\obj\Debug\netstandard2.0\THM.Model.pdb

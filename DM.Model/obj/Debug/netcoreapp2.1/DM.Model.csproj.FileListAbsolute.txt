@@ -1,0 +1,36 @@
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Model\bin\Debug\netcoreapp2.1\DM.Model.deps.json
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Model\bin\Debug\netcoreapp2.1\DM.Model.dll
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Model\bin\Debug\netcoreapp2.1\DM.Model.pdb
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.csprojAssemblyReference.cache
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.csproj.CoreCompileInputs.cache
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.AssemblyInfoInputs.cache
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.AssemblyInfo.cs
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.dll
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.WebAPI\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.pdb
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Model\bin\Debug\netcoreapp2.1\DM.Model.deps.json
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Model\bin\Debug\netcoreapp2.1\DM.Model.dll
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Model\bin\Debug\netcoreapp2.1\DM.Model.pdb
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.csprojAssemblyReference.cache
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.csproj.CoreCompileInputs.cache
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.AssemblyInfoInputs.cache
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.AssemblyInfo.cs
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.dll
+C:\Users\dhira\Downloads\dmservice\dmservice\DM.WebAPI\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.pdb
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Model\bin\Debug\netcoreapp2.1\DM.Model.deps.json
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Model\bin\Debug\netcoreapp2.1\DM.Model.dll
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Model\bin\Debug\netcoreapp2.1\DM.Model.pdb
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.csprojAssemblyReference.cache
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.csproj.CoreCompileInputs.cache
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.AssemblyInfoInputs.cache
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.AssemblyInfo.cs
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.dll
+C:\Users\Shivaprasad\Documents\GitHub\dmservice\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.pdb
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Model\bin\Debug\netcoreapp2.1\DM.Model.deps.json
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Model\bin\Debug\netcoreapp2.1\DM.Model.dll
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Model\bin\Debug\netcoreapp2.1\DM.Model.pdb
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.csprojAssemblyReference.cache
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.csproj.CoreCompileInputs.cache
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.AssemblyInfoInputs.cache
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.AssemblyInfo.cs
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.dll
+C:\Users\santo\Desktop\DM Service\dmservice\DM.Model\obj\Debug\netcoreapp2.1\DM.Model.pdb
